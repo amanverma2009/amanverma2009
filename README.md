@@ -2,7 +2,8 @@
 - 👀 I’m interested in making and fixing websites and also applications including games
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram - aman_verma_2009
+- 📫 How to reach me 
+Instagram - aman_verma_2009
 Gmail - amanverma4172@gmail.com
 
 <!---
