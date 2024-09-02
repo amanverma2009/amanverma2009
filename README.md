@@ -2,8 +2,8 @@
 Hello! I'm Aman Verma, a passionate 15-year-old programmer from Lucknow, India. I'm currently a 9th-grade student at Delhi Public School, where I explore the fascinating world of web development, software development, and artificial intelligence.I started my coding journey three years ago and have developed skills in HTML, CSS, JavaScript, and Python. My projects include creating web clones (like Netflix and Spotify), an AI assistant GUI, and more. I love combining creativity with technology, and I'm always eager to learn and tackle new challenges.
 
 ## 🚀 Future Goals: 
-<strong>College Aspirations:</strong> Aiming to apply to MIT, Stanford, and other prestigious institutions in 2028 to further my studies in programming.
-<strong>Career Path:</strong> I aspire to become a full-stack developer or a software engineer. I'm also interested in Android/iOS development.
+<strong>College Aspirations:</strong> Aiming to apply to MIT, Stanford, and other prestigious institutions in 2028 to further my studies in programming.<br>
+<strong>Career Path:</strong> I aspire to become a full-stack developer. I'm also interested in Android/iOS development.<br>
 <strong>Freelancing:</strong> I'm looking forward to collaborating on exciting tech projects and expanding my coding repertoire through freelance work.
 
 # 💻 Tech Stack:
