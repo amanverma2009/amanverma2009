@@ -11,7 +11,7 @@ Hello! I'm Aman Verma, a passionate 15-year-old programmer from Lucknow, India. 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman._.verma09?igsh=MTFnajJoODNlNzUyZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-36452b269)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman._.verma09?igsh=MTFnajJoODNlNzUyZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-36452b269)<br>
 [![](https://visitcount.itsvg.in/api?id=amanverma2009&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
