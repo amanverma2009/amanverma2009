@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello! I'm Aman Verma, a passionate 15-year-old programmer from India. I'm currently a 9th-grade student at Delhi Public School, where I explore the fascinating world of web development, software development, and artificial intelligence. I started my coding journey three years ago and have developed HTML, CSS, JavaScript, NodeJS, ExpressJS, React and Python skills and many more. My projects include creating web clones (like Netflix and Spotify), an AI assistant GUI, and more. I love combining creativity with technology and am always eager to learn and tackle new challenges.
+Hello! I'm Aman Verma, a passionate 15-year-old programmer from India. I'm currently a 10th-grade student at Delhi Public School, where I explore the fascinating world of web development, software development, and artificial intelligence. I started my coding journey four years ago and have developed HTML, CSS, JavaScript, NodeJS, ExpressJS, React and Python skills and many more. My projects include creating web clones (like Netflix and Spotify), an AI assistant GUI, and more. I love combining creativity with technology and am always eager to learn and tackle new challenges.
 
 ## 🚀 Future Goals: 
-<strong>College Aspirations:</strong> Aiming to apply to prestigious institutions in 2028 to further my studies in programming.<br>
-<strong>Career Path:</strong> I aspire to become a full-stack developer. I'm also interested in Android/iOS development.<br>
+<strong>College Aspirations:</strong> Aiming to apply to prestigious institutions in US, UK, Singapore and India in 2028 to further my studies in programming.<br>
+<strong>Career Path:</strong> I aspire to become a full-stack developer. <br>
 <strong>Freelancing:</strong> I'm looking forward to collaborating on exciting tech projects and expanding my coding repertoire through freelance work.
 
 # 💻 Tech Stack:
@@ -15,8 +15,3 @@ Hello! I'm Aman Verma, a passionate 15-year-old programmer from India. I'm curre
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman._.verma09?igsh=MTFnajJoODNlNzUyZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-verma-36452b269)<br>
 [![](https://visitcount.itsvg.in/api?id=amanverma2009&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!---
-amanverma2009/amanverma2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
