@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey,%20I'm%20Aman%20Verma!%20🚀&fontSize=40&animation=fadeIn)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=800&color=36BCF7&center=true&width=800&lines=Web+Developer+%7C+Software+Developer+%7C+Tech+Enthusiast;Passionate+about+coding+%26+AI;Building+cool+projects+one+line+at+a+time!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=800&color=36BCF7&center=true&width=800&lines=15-Years-Old+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+coding+%26+AI;Building+cool+projects+one+line+at+a+time!" />
 
 </p>
 
@@ -18,7 +18,7 @@ My projects include **Netflix and Spotify web clones, an AI assistant GUI, and o
 
 ## 🚀 Future Goals
 
-- 🎓 **College Aspirations**: Aiming to apply to **MIT, Stanford, Harvard, Cambridge, NUS, IITs**, and other top institutions in **2028** to further my studies in **Computer Science**.
+- 🎓 **College Aspirations**: Aiming to apply to **MIT, Stanford, Harvard, Cambridge, Imperial, NUS and IITs**, and other top institutions for **2028 intake** to further my studies in **Computer Science**.
 - 💼 **Career Path**: Aspiring to become a **full-stack developer** and contribute to innovative tech projects.
 - 🌟 **Freelancing**: Looking forward to **collaborating on exciting projects** and expanding my **coding repertoire** through freelance work.
 
