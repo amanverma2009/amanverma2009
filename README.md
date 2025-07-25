@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-Hello! I'm **Aman Verma**, a passionate 15-year-old programmer from **India**. I'm currently a **10th-grade student at Delhi Public School**, where I explore the fascinating world of **web development, software development, and artificial intelligence**. I started my coding journey four years ago and have developed skills in **HTML, CSS, JavaScript, Node.js, Express.js, React, Python, and more**. 
+Hello! I'm **Aman Verma**, a passionate 16-year-old programmer from **India**. I'm currently a **10th-grade student at Delhi Public School**, where I explore the fascinating world of **web development, software development, and artificial intelligence**. I started my coding journey four years ago and have developed skills in **HTML, CSS, JavaScript, Node.js, Express.js, React, Python, and more**. 
 
 My projects include **Netflix and Spotify web clones, an AI assistant GUI, and other exciting developments**. I love combining creativity with technology and am always eager to learn and tackle new challenges.
 
